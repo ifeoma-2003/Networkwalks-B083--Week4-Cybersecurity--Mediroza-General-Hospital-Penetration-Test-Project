@@ -360,8 +360,7 @@ significance, validating its impact, and recommending appropriate remediation ar
 ## 14. EVIDENCE DIRECTORY
 
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/STEP1%20WEEK4.png)
-
-![]()
+![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/STEP1A%20WEEK4.png)
 ![]()
 ![]()
 ![]()
