@@ -359,17 +359,17 @@ significance, validating its impact, and recommending appropriate remediation ar
 
 ## 14. EVIDENCE DIRECTORY
 
-All screenshots and supporting outputs should be organised under the following structure:
+![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/STEP1%20WEEK4.png)
 
-text
-Evidence/
-├── 01-WHOIS/
-├── 02-WhatWeb/
-├── 03-DNS-Enumeration/
-├── 04-Nmap/
-├── 05-Robots-TXT/
-├── 06-Authentication-Assessment/
-└── 07-Password-Security/
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 
 Sensitive information must be redacted before any evidence is published.
