@@ -367,13 +367,16 @@ significance, validating its impact, and recommending appropriate remediation ar
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/WEEK4%20NAME%20SERVER.png)
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/WHATWEB%20MEDIROZA.png)
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/WHOIS%20MEDIROZA.png)
+![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/MILESTONE2%20STEP1A.png)
 ![]()
 ![]()
 ![]()
 ![]()
 ![]()
 ![]()
-
+![]()
+![]()
+![]()
 Sensitive information must be redacted before any evidence is published.
 
 ## 15. SKILLS ACQUIRED
