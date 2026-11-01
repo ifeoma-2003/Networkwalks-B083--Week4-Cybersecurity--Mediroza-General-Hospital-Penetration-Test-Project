@@ -369,7 +369,7 @@ significance, validating its impact, and recommending appropriate remediation ar
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/WHOIS%20MEDIROZA.png)
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/MILESTONE2%20STEP1A.png)
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/MILESTONE2%20STEP1B.png)
-![]()
+![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/MILESTONE2%20STEP2A.png)
 ![]()
 ![]()
 ![]()
