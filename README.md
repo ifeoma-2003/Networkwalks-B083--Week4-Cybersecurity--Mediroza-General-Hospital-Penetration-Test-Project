@@ -131,7 +131,7 @@ dig MX medirozahospital.com
 
 
 bash
-dig NX medirozahospital.com
+dig NS medirozahospital.com
 ```
 
 # Investigation focus:
@@ -357,8 +357,7 @@ The reported authentication and data-access observations demonstrate why healthc
 The exercise reinforced the importance of evidence-based vulnerability assessment: identifying a potential weakness is only the beginning; understanding its technical
 significance, validating its impact, and recommending appropriate remediation are equally important parts of a penetration testing engagement.
 
-## 14. EVIDENCE DIRECTORY
-
+## 14. EVIDENCE DOCUMENTED
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/STEP1%20WEEK4.png)
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/STEP1A%20WEEK4.png)
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/WEEK4%20IPADDRESS.png)
