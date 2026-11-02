@@ -38,8 +38,8 @@ The investigation was organised into the following phases:
 | Phase 4 | Web technology identification |
 | Phase 5 | Web resource inspection |
 | Phase 6 | Authentication and input validation assessment |
-| Phase 7 | Access-control analysis |
-| Phase 8 | Password-security analysis |
+| Phase 7 | Access control analysis |
+| Phase 8 | Password security analysis |
 | Phase 9 | Findings and remediation |
 
 # Assessment limitation: 
@@ -60,7 +60,7 @@ its authoritative nameservers.
 # Command:
 ```
 bash
-whois medrosahospital.com
+whois medirozahospital.com
 ```
 
 # Observed findings:
@@ -87,7 +87,7 @@ Following domain registration analysis, technology fingerprinting was performed 
 # Command:
 ```
 bash
-whatweb medrosahospital.com
+whatweb medirozahospital.com
 ```
 
 # Observed output:
@@ -123,15 +123,15 @@ DNS enumeration was conducted to investigate the domain's publicly available DNS
 # Command:
 ```
 bash
-dig medrosahospital.com
+dig medirozahospital.com
 
 
 bash
-dig A medrosahospital.com
+dig MX medirozahospital.com
 
 
 bash
-dig NS medrosahospital.com
+dig NX medirozahospital.com
 ```
 
 # Investigation focus:
@@ -197,7 +197,7 @@ The initial scan provided an overview of the exposed TCP services. The subsequen
 Service identification is important because an exposed port alone does not establish the precise application or its security posture. Additional service level analysis
 is necessary.
 
-*Scan limitation*
+# Scan limitation
 
 The intensive Nmap scan terminated unexpectedly. This was recorded as a limitation of the scanning process rather than interpreted as evidence of a target side vulnerability.
 
@@ -215,7 +215,7 @@ search engine crawlers.
 # Command:
 ```
 bash
-curl https://medrosahospital.com/robots.txt
+curl https://medirozahospital.com/robots.txt
 ```
 
 ## 08. PHASE FIVE – AUTHENTICATION AND INPUT VALIDATION ASSESSMENT
@@ -229,7 +229,7 @@ The login interface was examined to understand how the application handled authe
 | Test condition | Application response |
 |---|---|
 | Unrecognised username | Username not found |
-| Recognised-looking account identifier with an incorrect password | Incorrect password |
+| Recognized looking account identifier with an incorrect password | Incorrect password |
 
 # Finding: Potential Username Enumeration
 
@@ -266,7 +266,7 @@ The reported assessment raised concerns about the effectiveness of authenticatio
 
 1) Whether portal access is restricted to authenticated users.
 2) Whether users can access only records they are authorised to view.
-3) Whether document retrieval is subject to server-side authorisation.
+3) Whether document retrieval is subject to server-side authorization.
 4) Whether sensitive files are exposed through predictable or publicly accessible locations.
 5) Whether access to patient records is properly logged.
 
@@ -276,7 +276,7 @@ Their contents, filenames, identifying information, and credentials are delibera
 
 # Potential impact
 
-Unauthorised access to healthcare records can result in serious breaches of patient confidentiality, privacy obligations, and organisational trust.
+Unauthorized access to healthcare records can result in serious breaches of patient confidentiality, privacy obligations, and organisational trust.
 
 ## 10. PHASE SEVEN – PASSWORD SECURITY ANALYSIS
 
@@ -308,7 +308,7 @@ A sound password-security implementation should use a dedicated password-hashing
 | F-05 | Potential patient-document exposure | Critical |
 | F-06 | Externally exposed services requiring review | Informational |
 
-These are preliminary classifications. Final severity must be based on validated exploitability, affected assets, business impact, and the assessment's authorised scope.
+These are preliminary classifications. Final severity must be based on validated exploitability, affected assets, business impact, and the assessment's authorized scope.
 
 ## 12. REMEDIATION AND SECURITY RECOMMENDATIONS
 
@@ -350,7 +350,7 @@ These are preliminary classifications. Final severity must be based on validated
 
 ## 13. PROJECT CONCLUSION
 
-The Medrosa General Hospital penetration testing exercise provided an opportunity to examine the relationship between infrastructure exposure, web application 
+The Mediroza General Hospital penetration testing exercise provided an opportunity to examine the relationship between infrastructure exposure, web application 
 behavior, authentication controls, and sensitive data protection.
 The investigation progressed from domain reconnaissance and service enumeration into application-level security analysis.
 The reported authentication and data-access observations demonstrate why healthcare applications require particularly strong identity verification, server-side authorization, secure database interaction, and confidentiality controls.
