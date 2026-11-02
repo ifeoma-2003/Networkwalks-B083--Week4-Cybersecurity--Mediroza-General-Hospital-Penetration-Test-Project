@@ -377,6 +377,7 @@ significance, validating its impact, and recommending appropriate remediation ar
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/RECON%20STEP3B.png)
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/RECON%20STEP4.png)
 ![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/RECON%20STEP5.png)
+![](https://github.com/ifeoma-2003/Networkwalks-B083--Week4-Cybersecurity--Mediroza-General-Hospital-Penetration-Test-Project/blob/main/NMAP.png)
 
 ## 15. SKILLS ACQUIRED
 
